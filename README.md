@@ -38,6 +38,7 @@ You can either:
 git clone https://github.com/gnanesh023/Flask-Deployer-Auto.git
 cd flask-deployer
 chmod +x flask-deployer.sh
+#Edit the CONFIG | CHECK THE EXAMPLE USEAGE  BELOW | SAVE IT RUN IT!
 sudo ./flask-deployer.sh
 
 ## 🧪 Example Usage

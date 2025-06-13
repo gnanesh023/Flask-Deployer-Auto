@@ -29,6 +29,17 @@ You can either:
 | `DATABASE_NAME`       | Name of the database (if created)            | ⚠️        | `mydatabase`     |
 | `DOMAIN_NAME`         | Domain for Nginx server_name                 | ✅        | `example.com`    |
 
+
+## 📦 Installation & Usage
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/flask-deployer.git
+cd flask-deployer
+chmod +x flask-deployer.sh
+sudo ./flask-deployer.sh
+
 ## 🧪 Example Usage
 
 ```bash

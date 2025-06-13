@@ -35,7 +35,7 @@ You can either:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/flask-deployer.git
+git clone https://github.com/gnanesh023/Flask-Deployer-Auto.git
 cd flask-deployer
 chmod +x flask-deployer.sh
 sudo ./flask-deployer.sh
